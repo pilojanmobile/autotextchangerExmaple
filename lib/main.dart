@@ -1,4 +1,4 @@
-import 'package:autotextchangexample/autotextchanger.dart';
+import 'package:autotextchanger/autotextchanger.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -39,7 +39,7 @@ class MyHomePage extends StatelessWidget {
           ],
           textChangeSec: 1,
           textstyle: TextStyle(fontSize: 18, color: Colors.red),
-          isAimated: true,
+          isAnimated: true,
         )),
       ),
     );
